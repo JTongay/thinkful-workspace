@@ -1,1 +1,3 @@
 # thinkful-workspace
+
+course notes
