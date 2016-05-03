@@ -2,7 +2,7 @@
 
 1- Why I couldnt change the new york times image.
 
-2- How to pull files from github using github
+2- How to pull files from github using Jgithub
 
 protocol: git
 websites: github, bitbucket, gitlab, stash
@@ -87,3 +87,4 @@ var c = 3;
 ```
 
 ## .gitignore file
+It helps us ignore files and folder.
